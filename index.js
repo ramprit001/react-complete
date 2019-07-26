@@ -13,12 +13,9 @@ class App extends Component {
 
   render() {
     return (
-      <div>
-       
-        <p className="title has-text-danger">
-          Start editing to see some magic happen :)
-        </p>
-      </div>
+      <section className="section">
+       Welcome to Reactjs application
+      </section>
     );
   }
 }
